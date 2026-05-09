@@ -1,0 +1,7 @@
+onnxruntime
+numpy
+soundfile
+sounddevice
+huggingface_hub
+misaki
+git+https://github.com/KittenML/KittenTTS.git
